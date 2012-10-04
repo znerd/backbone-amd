@@ -4,7 +4,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>backbone-amd</artifactId>
   <packaging>pom</packaging>
-  <version>0.9.2.000-SNAPSHOT</version>
+  <version>0.9.2.000</version>
 
   <name>Backbone.js</name>
   <description>Backbone.js JavaScript library with AMD wrapper</description>
@@ -30,7 +30,7 @@
     <connection>scm:git:git@github.com:znerd/backbone-amd.git</connection>
     <developerConnection>scm:git:git@github.com:znerd/backbone-amd.git</developerConnection>
     <url>git@github.com:znerd/backbone-amd.git</url>
-    <tag>HEAD</tag>
+    <tag>backbone-amd-0.9.2.000</tag>
   </scm>
 
   <issueManagement>
